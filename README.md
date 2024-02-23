@@ -31,4 +31,5 @@ didi sous l'autre écran
 * madeleine
 * fredo
 * martin lemaire
-
+* pang pang club
+* musicien.ne.s
