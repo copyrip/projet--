@@ -1,8 +1,19 @@
 # Projet ?
 
+## todo
+* [ ] strutcturer
+* [ ] rédiger invitation
+* [ ] quel setup et où ça ?
+
+
 ## noms possibles
 * what's in my mac ?
 * range ton bureau
+
+## présentation
+* desc
+* inspi
+* exemple
 
 ## rubriques
 ### intro
@@ -33,3 +44,5 @@ didi sous l'autre écran
 * martin lemaire
 * pang pang club
 * musicien.ne.s
+* well born
+* mystique
