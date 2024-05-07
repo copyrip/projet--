@@ -2,8 +2,13 @@
 
 ## todo
 * [ ] strutcturer
+* [ ] com
 * [ ] rédiger invitation
 * [ ] quel setup et où ça ?
+* [ ] rediger MVP
+* [ ] ouvrir page web ?
+
+
 
 
 ## noms possibles
@@ -46,3 +51,6 @@ didi sous l'autre écran
 * musicien.ne.s
 * well born
 * mystique
+
+## M.V.P ?
+* 
